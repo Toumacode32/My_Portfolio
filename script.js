@@ -29,7 +29,14 @@ const certifications = [
         organization: "Certificate of Completion",
         year: "2024",
         imageUrl: "img/alx-virtual-assistant.jpg" // Replace with actual file name
-    }
+    },
+    {
+        title: "Not Yet Available",
+        organization: "",
+        year: "2025",
+        imageUrl: "" // Replace with actual file name
+    },
+    
 ];
 
 // Populate certifications
